@@ -1,0 +1,132 @@
+{
+  "app": {
+    "title": "গবাদি পশু সনাক্তকরণ সিস্টেম",
+    "subtitle": "কৃষকদের জন্য স্মার্ট পশু ব্যবস্থাপনা"
+  },
+  "auth": {
+    "login": "লগইন",
+    "register": "নিবন্ধন",
+    "phoneNumber": "ফোন নম্বর",
+    "otp": "ওটিপি",
+    "sendOtp": "ওটিপি পাঠান",
+    "verifyOtp": "ওটিপি যাচাই করুন",
+    "loginSuccess": "লগইন সফল",
+    "logout": "লগআউট"
+  },
+  "dashboard": {
+    "welcome": "স্বাগতম",
+    "scanNow": "এখনই স্ক্যান করুন",
+    "uploadPhoto": "পশুর ছবি আপলোড করুন",
+    "addNewAnimal": "নতুন পশু যোগ করুন",
+    "viewRecords": "রেকর্ড দেখুন",
+    "milkYield": "দুধ উৎপাদন",
+    "alerts": "সতর্কতা",
+    "quickActions": "দ্রুত কাজ"
+  },
+  "scan": {
+    "title": "আইরিস স্ক্যান এবং প্রজাতি সনাক্তকরণ",
+    "captureIris": "আইরিস ক্যাপচার করুন",
+    "uploadImage": "ছবি আপলোড করুন",
+    "processing": "প্রক্রিয়াকরণ...",
+    "results": "সনাক্তকরণ ফলাফল",
+    "breed": "প্রজাতি",
+    "confidence": "আত্মবিশ্বাস",
+    "animalId": "পশু আইডি",
+    "traits": "বৈশিষ্ট্য",
+    "color": "রঙ",
+    "horns": "শিং",
+    "milkType": "দুধের ধরন",
+    "saveAnimal": "পশু সংরক্ষণ করুন"
+  },
+  "breeding": {
+    "title": "প্রজনন তথ্য",
+    "matingTime": "সর্বোত্তম সঙ্গমের সময়",
+    "matingPartner": "প্রস্তাবিত সঙ্গী",
+    "shelfLife": "প্রজনন শেলফ লাইফ",
+    "lastMating": "শেষ সঙ্গমের তারিখ",
+    "nextMating": "পরবর্তী সঙ্গমের তারিখ",
+    "pregnancyStatus": "গর্ভাবস্থার অবস্থা",
+    "gestationPeriod": "গর্ভকাল",
+    "breedingAge": "প্রজনন বয়স",
+    "fertilityStatus": "প্রজনন ক্ষমতার অবস্থা",
+    "breedingHistory": "প্রজনন ইতিহাস"
+  },
+  "records": {
+    "title": "পশুর রেকর্ড",
+    "search": "পশু খুঁজুন...",
+    "filter": "ফিল্টার",
+    "all": "সব",
+    "cattle": "গরু",
+    "buffalo": "মহিষ",
+    "age": "বয়স",
+    "owner": "মালিক",
+    "milkYield": "দুধ উৎপাদন",
+    "lastUpdated": "শেষ আপডেট"
+  },
+  "milk": {
+    "title": "দুধ উৎপাদন এবং স্বাস্থ্য ড্যাশবোর্ড",
+    "subtitle": "দুধ উৎপাদন এবং স্বাস্থ্য মেট্রিক্স ট্র্যাক করুন",
+    "dailyYield": "দৈনিক উৎপাদন",
+    "monthlyYield": "মাসিক উৎপাদন",
+    "averageYield": "গড় উৎপাদন",
+    "totalAnimals": "মোট পশু",
+    "totalDailyYield": "মোট দৈনিক উৎপাদন",
+    "weeklyMilkProduction": "সাপ্তাহিক দুধ উৎপাদন",
+    "topMilkProducers": "শীর্ষ দুধ উৎপাদক",
+    "perDay": "প্রতি দিন",
+    "vaccinationReminder": "টিকা স্মরণিকা",
+    "insuranceReminder": "বীমা স্মরণিকা",
+    "healthAlerts": "স্বাস্থ্য সতর্কতা"
+  },
+  "health": {
+    "title": "স্বাস্থ্য অবস্থা",
+    "status": "স্বাস্থ্য অবস্থা",
+    "normal": "স্বাভাবিক",
+    "diseased": "রোগাক্রান্ত",
+    "diseaseType": "রোগের ধরন",
+    "symptoms": "লক্ষণ",
+    "diagnosis": "নির্ণয়",
+    "treatment": "চিকিৎসা",
+    "preventiveMeasures": "প্রতিরোধমূলক ব্যবস্থা",
+    "vaccinationSchedule": "টিকাদান সময়সূচী",
+    "medicationHistory": "ওষুধের ইতিহাস",
+    "healthAlerts": "স্বাস্থ্য সতর্কতা",
+    "veterinaryContact": "পশুচিকিত্সক যোগাযোগ",
+    "quarantineStatus": "কোয়ারেন্টাইন অবস্থা",
+    "healthyAnimals": "সুস্থ পশু"
+  },
+  "settings": {
+    "title": "সেটিংস",
+    "language": "ভাষা",
+    "darkMode": "ডার্ক মোড",
+    "profile": "প্রোফাইল",
+    "notifications": "বিজ্ঞপ্তি",
+    "about": "সম্পর্কে"
+  },
+  "common": {
+    "save": "সংরক্ষণ",
+    "cancel": "বাতিল",
+    "delete": "মুছে ফেলুন",
+    "edit": "সম্পাদনা",
+    "view": "দেখুন",
+    "back": "ফিরে যান",
+    "next": "পরবর্তী",
+    "loading": "লোড হচ্ছে...",
+    "error": "ত্রুটি",
+    "success": "সফল",
+    "noData": "কোন ডেটা নেই",
+    "export": "ডেটা রপ্তানি করুন"
+  },
+  "languages": {
+    "en": "English",
+    "hi": "हिन्दी",
+    "bn": "বাংলা",
+    "te": "తెలుగు",
+    "mr": "मराठी",
+    "ta": "தமிழ்",
+    "gu": "ગુજરાતી",
+    "kn": "ಕನ್ನಡ",
+    "ml": "മലയാളം",
+    "pa": "ਪੰਜਾਬੀ"
+  }
+}

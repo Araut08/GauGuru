@@ -1,0 +1,132 @@
+{
+  "app": {
+    "title": "Cattle Identification System",
+    "subtitle": "Smart Animal Management for Farmers"
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Register",
+    "phoneNumber": "Phone Number",
+    "otp": "OTP",
+    "sendOtp": "Send OTP",
+    "verifyOtp": "Verify OTP",
+    "loginSuccess": "Login Successful",
+    "logout": "Logout"
+  },
+  "dashboard": {
+    "welcome": "Welcome",
+    "scanNow": "Scan Now",
+    "uploadPhoto": "Upload Animal Photo",
+    "addNewAnimal": "Add New Animal",
+    "viewRecords": "View Records",
+    "milkYield": "Milk Yield",
+    "alerts": "Alerts",
+    "quickActions": "Quick Actions"
+  },
+  "scan": {
+    "title": "Iris Scan & Breed Identification",
+    "captureIris": "Capture Iris",
+    "uploadImage": "Upload Image",
+    "processing": "Processing...",
+    "results": "Identification Results",
+    "breed": "Breed",
+    "confidence": "Confidence",
+    "animalId": "Animal ID",
+    "traits": "Traits",
+    "color": "Color",
+    "horns": "Horns",
+    "milkType": "Milk Type",
+    "saveAnimal": "Save Animal"
+  },
+  "breeding": {
+    "title": "Breeding Information",
+    "matingTime": "Optimal Mating Time",
+    "matingPartner": "Recommended Partner",
+    "shelfLife": "Breeding Shelf Life",
+    "lastMating": "Last Mating Date",
+    "nextMating": "Next Mating Due",
+    "pregnancyStatus": "Pregnancy Status",
+    "gestationPeriod": "Gestation Period",
+    "breedingAge": "Breeding Age",
+    "fertilityStatus": "Fertility Status",
+    "breedingHistory": "Breeding History"
+  },
+  "health": {
+    "title": "Health Status",
+    "status": "Health Status",
+    "normal": "Normal",
+    "diseased": "Diseased",
+    "diseaseType": "Disease Type",
+    "symptoms": "Symptoms",
+    "diagnosis": "Diagnosis",
+    "treatment": "Treatment",
+    "preventiveMeasures": "Preventive Measures",
+    "vaccinationSchedule": "Vaccination Schedule",
+    "medicationHistory": "Medication History",
+    "healthAlerts": "Health Alerts",
+    "veterinaryContact": "Veterinary Contact",
+    "quarantineStatus": "Quarantine Status",
+    "healthyAnimals": "Healthy Animals"
+  },
+  "records": {
+    "title": "Animal Records",
+    "search": "Search animals...",
+    "filter": "Filter",
+    "all": "All",
+    "cattle": "Cattle",
+    "buffalo": "Buffalo",
+    "age": "Age",
+    "owner": "Owner",
+    "milkYield": "Milk Yield",
+    "lastUpdated": "Last Updated"
+  },
+  "milk": {
+    "title": "Milk Yield & Health Dashboard",
+    "subtitle": "Track milk production and health metrics",
+    "dailyYield": "Daily Yield",
+    "monthlyYield": "Monthly Yield",
+    "averageYield": "Average Yield",
+    "totalAnimals": "Total Animals",
+    "totalDailyYield": "Total Daily Yield",
+    "weeklyMilkProduction": "Weekly Milk Production",
+    "topMilkProducers": "Top Milk Producers",
+    "perDay": "per day",
+    "vaccinationReminder": "Vaccination Reminder",
+    "insuranceReminder": "Insurance Reminder",
+    "healthAlerts": "Health Alerts"
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "darkMode": "Dark Mode",
+    "profile": "Profile",
+    "notifications": "Notifications",
+    "about": "About"
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "back": "Back",
+    "next": "Next",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "noData": "No data available",
+    "export": "Export Data"
+  },
+  "languages": {
+    "en": "English",
+    "hi": "हिन्दी",
+    "bn": "বাংলা",
+    "te": "తెలుగు",
+    "mr": "मराठी",
+    "ta": "தமிழ்",
+    "gu": "ગુજરાતી",
+    "kn": "ಕನ್ನಡ",
+    "ml": "മലയാളം",
+    "pa": "ਪੰਜਾਬੀ"
+  }
+}

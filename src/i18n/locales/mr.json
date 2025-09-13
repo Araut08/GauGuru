@@ -1,0 +1,96 @@
+{
+  "app": {
+    "title": "गुरांची ओळख प्रणाली",
+    "subtitle": "शेतकऱ्यांसाठी स्मार्ट पशु व्यवस्थापन"
+  },
+  "auth": {
+    "login": "लॉगिन",
+    "register": "नोंदणी",
+    "phoneNumber": "फोन नंबर",
+    "otp": "OTP",
+    "sendOtp": "OTP पाठवा",
+    "verifyOtp": "OTP सत्यापित करा",
+    "loginSuccess": "लॉगिन यशस्वी",
+    "logout": "लॉगआउट"
+  },
+  "dashboard": {
+    "welcome": "स्वागत",
+    "scanNow": "आता स्कॅन करा",
+    "uploadPhoto": "पशु फोटो अपलोड करा",
+    "addNewAnimal": "नवीन पशु जोडा",
+    "viewRecords": "रेकॉर्ड पहा",
+    "milkYield": "दुधाचे उत्पादन",
+    "alerts": "सतर्कता",
+    "quickActions": "द्रुत क्रिया"
+  },
+  "scan": {
+    "title": "आयरिस स्कॅन आणि जात ओळख",
+    "captureIris": "आयरिस कॅप्चर करा",
+    "uploadImage": "प्रतिमा अपलोड करा",
+    "processing": "प्रक्रिया...",
+    "results": "ओळख परिणाम",
+    "breed": "जात",
+    "confidence": "आत्मविश्वास",
+    "animalId": "पशु ID",
+    "traits": "वैशिष्ट्ये",
+    "color": "रंग",
+    "horns": "शिंगे",
+    "milkType": "दुधाचा प्रकार",
+    "saveAnimal": "पशु सेव्ह करा"
+  },
+  "records": {
+    "title": "पशु रेकॉर्ड",
+    "search": "पशु शोधा...",
+    "filter": "फिल्टर",
+    "all": "सर्व",
+    "cattle": "गाय",
+    "buffalo": "म्हैस",
+    "age": "वय",
+    "owner": "मालक",
+    "milkYield": "दुधाचे उत्पादन",
+    "lastUpdated": "शेवटचे अपडेट"
+  },
+  "milk": {
+    "title": "दुधाचे उत्पादन आणि आरोग्य डॅशबोर्ड",
+    "dailyYield": "दैनिक उत्पादन",
+    "monthlyYield": "मासिक उत्पादन",
+    "averageYield": "सरासरी उत्पादन",
+    "totalAnimals": "एकूण पशु",
+    "vaccinationReminder": "लसीकरण आठवण",
+    "insuranceReminder": "विमा आठवण",
+    "healthAlerts": "आरोग्य सतर्कता"
+  },
+  "settings": {
+    "title": "सेटिंग्ज",
+    "language": "भाषा",
+    "darkMode": "डार्क मोड",
+    "profile": "प्रोफाइल",
+    "notifications": "सूचना",
+    "about": "बद्दल"
+  },
+  "common": {
+    "save": "सेव्ह करा",
+    "cancel": "रद्द करा",
+    "delete": "हटवा",
+    "edit": "संपादन",
+    "view": "पहा",
+    "back": "मागे",
+    "next": "पुढे",
+    "loading": "लोड होत आहे...",
+    "error": "त्रुटी",
+    "success": "यश",
+    "noData": "डेटा नाही"
+  },
+  "languages": {
+    "en": "English",
+    "hi": "हिन्दी",
+    "bn": "বাংলা",
+    "te": "తెలుగు",
+    "mr": "मराठी",
+    "ta": "தமிழ்",
+    "gu": "ગુજરાતી",
+    "kn": "ಕನ್ನಡ",
+    "ml": "മലയാളം",
+    "pa": "ਪੰਜਾਬੀ"
+  }
+}

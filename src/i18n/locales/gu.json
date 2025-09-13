@@ -1,0 +1,96 @@
+{
+  "app": {
+    "title": "ગોવાળ ઓળખ સિસ્ટમ",
+    "subtitle": "કૃષકો માટે સ્માર્ટ પશુ વ્યવસ્થાપન"
+  },
+  "auth": {
+    "login": "લોગિન",
+    "register": "નોંધણી",
+    "phoneNumber": "ફોન નંબર",
+    "otp": "OTP",
+    "sendOtp": "OTP મોકલો",
+    "verifyOtp": "OTP ચકાસો",
+    "loginSuccess": "લોગિન સફળ",
+    "logout": "લોગઆઉટ"
+  },
+  "dashboard": {
+    "welcome": "સ્વાગત",
+    "scanNow": "હવે સ્કેન કરો",
+    "uploadPhoto": "પશુ ફોટો અપલોડ કરો",
+    "addNewAnimal": "નવું પશુ ઉમેરો",
+    "viewRecords": "રેકોર્ડ જુઓ",
+    "milkYield": "દૂધ ઉત્પાદન",
+    "alerts": "ચેતવણીઓ",
+    "quickActions": "ઝડપી ક્રિયાઓ"
+  },
+  "scan": {
+    "title": "આઇરિસ સ્કેન અને જાતિ ઓળખ",
+    "captureIris": "આઇરિસ કેપ્ચર કરો",
+    "uploadImage": "છબી અપલોડ કરો",
+    "processing": "પ્રક્રિયા...",
+    "results": "ઓળખ પરિણામો",
+    "breed": "જાતિ",
+    "confidence": "વિશ્વાસ",
+    "animalId": "પશુ ID",
+    "traits": "લક્ષણો",
+    "color": "રંગ",
+    "horns": "શિંગડા",
+    "milkType": "દૂધ પ્રકાર",
+    "saveAnimal": "પશુ સેવ કરો"
+  },
+  "records": {
+    "title": "પશુ રેકોર્ડ",
+    "search": "પશુઓ શોધો...",
+    "filter": "ફિલ્ટર",
+    "all": "બધા",
+    "cattle": "ગાય",
+    "buffalo": "ભેંસ",
+    "age": "ઉંમર",
+    "owner": "માલિક",
+    "milkYield": "દૂધ ઉત્પાદન",
+    "lastUpdated": "છેલ્લું અપડેટ"
+  },
+  "milk": {
+    "title": "દૂધ ઉત્પાદન અને આરોગ્ય ડેશબોર્ડ",
+    "dailyYield": "દૈનિક ઉત્પાદન",
+    "monthlyYield": "માસિક ઉત્પાદન",
+    "averageYield": "સરેરાશ ઉત્પાદન",
+    "totalAnimals": "કુલ પશુઓ",
+    "vaccinationReminder": "ટીકાકરણ યાદદાસ્ત",
+    "insuranceReminder": "વીમો યાદદાસ્ત",
+    "healthAlerts": "આરોગ્ય ચેતવણીઓ"
+  },
+  "settings": {
+    "title": "સેટિંગ્સ",
+    "language": "ભાષા",
+    "darkMode": "ડાર્ક મોડ",
+    "profile": "પ્રોફાઇલ",
+    "notifications": "સૂચનાઓ",
+    "about": "વિશે"
+  },
+  "common": {
+    "save": "સેવ કરો",
+    "cancel": "રદ કરો",
+    "delete": "ડિલીટ કરો",
+    "edit": "એડિટ કરો",
+    "view": "જુઓ",
+    "back": "પાછળ",
+    "next": "આગળ",
+    "loading": "લોડ થઈ રહ્યું છે...",
+    "error": "ભૂલ",
+    "success": "સફળતા",
+    "noData": "ડેટા નથી"
+  },
+  "languages": {
+    "en": "English",
+    "hi": "हिन्दी",
+    "bn": "বাংলা",
+    "te": "తెలుగు",
+    "mr": "मराठी",
+    "ta": "தமிழ்",
+    "gu": "ગુજરાતી",
+    "kn": "ಕನ್ನಡ",
+    "ml": "മലയാളം",
+    "pa": "ਪੰਜਾਬੀ"
+  }
+}

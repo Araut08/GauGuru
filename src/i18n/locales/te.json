@@ -1,0 +1,132 @@
+{
+  "app": {
+    "title": "పశువుల గుర్తింపు వ్యవస్థ",
+    "subtitle": "రైతులకు స్మార్ట్ పశు నిర్వహణ"
+  },
+  "auth": {
+    "login": "లాగిన్",
+    "register": "నమోదు",
+    "phoneNumber": "ఫోన్ నంబర్",
+    "otp": "OTP",
+    "sendOtp": "OTP పంపండి",
+    "verifyOtp": "OTP ధృవీకరించండి",
+    "loginSuccess": "లాగిన్ విజయవంతం",
+    "logout": "లాగౌట్"
+  },
+  "dashboard": {
+    "welcome": "స్వాగతం",
+    "scanNow": "ఇప్పుడే స్కాన్ చేయండి",
+    "uploadPhoto": "పశు ఫోటో అప్లోడ్ చేయండి",
+    "addNewAnimal": "కొత్త పశువును జోడించండి",
+    "viewRecords": "రికార్డులను చూడండి",
+    "milkYield": "పాల దిగుబడి",
+    "alerts": "అలర్ట్లు",
+    "quickActions": "త్వరిత చర్యలు"
+  },
+  "scan": {
+    "title": "ఐరిస్ స్కాన్ & జాతి గుర్తింపు",
+    "captureIris": "ఐరిస్ క్యాప్చర్ చేయండి",
+    "uploadImage": "చిత్రాన్ని అప్లోడ్ చేయండి",
+    "processing": "ప్రాసెసింగ్...",
+    "results": "గుర్తింపు ఫలితాలు",
+    "breed": "జాతి",
+    "confidence": "విశ్వాసం",
+    "animalId": "పశు ID",
+    "traits": "లక్షణాలు",
+    "color": "రంగు",
+    "horns": "కొమ్ములు",
+    "milkType": "పాల రకం",
+    "saveAnimal": "పశువును సేవ్ చేయండి"
+  },
+  "breeding": {
+    "title": "ప్రజనన సమాచారం",
+    "matingTime": "ఆప్టిమల్ మేటింగ్ సమయం",
+    "matingPartner": "సిఫార్సు చేసిన భాగస్వామి",
+    "shelfLife": "ప్రజనన షెల్ఫ్ లైఫ్",
+    "lastMating": "చివరి మేటింగ్ తేదీ",
+    "nextMating": "తదుపరి మేటింగ్ కారణం",
+    "pregnancyStatus": "గర్భధారణ స్థితి",
+    "gestationPeriod": "గర్భకాలం",
+    "breedingAge": "ప్రజనన వయస్సు",
+    "fertilityStatus": "సంతానోత్పత్తి స్థితి",
+    "breedingHistory": "ప్రజనన చరిత్ర"
+  },
+  "health": {
+    "title": "ఆరోగ్య స్థితి",
+    "status": "ఆరోగ్య స్థితి",
+    "normal": "సాధారణ",
+    "diseased": "వ్యాధిగ్రస్త",
+    "diseaseType": "వ్యాధి రకం",
+    "symptoms": "లక్షణాలు",
+    "diagnosis": "నిర్ధారణ",
+    "treatment": "చికిత్స",
+    "preventiveMeasures": "నివారణ చర్యలు",
+    "vaccinationSchedule": "వ్యాక్సినేషన్ షెడ్యూల్",
+    "medicationHistory": "మందుల చరిత్ర",
+    "healthAlerts": "ఆరోగ్య అలర్ట్లు",
+    "veterinaryContact": "వెటర్నరీ కాంటాక్ట్",
+    "quarantineStatus": "క్వారంటైన్ స్థితి",
+    "healthyAnimals": "ఆరోగ్యవంతమైన పశువులు"
+  },
+  "records": {
+    "title": "పశు రికార్డులు",
+    "search": "పశువులను వెతకండి...",
+    "filter": "ఫిల్టర్",
+    "all": "అన్నీ",
+    "cattle": "ఆవులు",
+    "buffalo": "ఎద్దులు",
+    "age": "వయస్సు",
+    "owner": "యజమాని",
+    "milkYield": "పాల దిగుబడి",
+    "lastUpdated": "చివరి అప్డేట్"
+  },
+  "milk": {
+    "title": "పాల దిగుబడి & ఆరోగ్య డ్యాష్‌బోర్డ్",
+    "subtitle": "పాల ఉత్పాదన మరియు ఆరోగ్య మెట్రిక్స్‌ను ట్రాక్ చేయండి",
+    "dailyYield": "రోజువారీ దిగుబడి",
+    "monthlyYield": "నెలవారీ దిగుబడి",
+    "averageYield": "సగటు దిగుబడి",
+    "totalAnimals": "మొత్తం పశువులు",
+    "totalDailyYield": "మొత్తం రోజువారీ దిగుబడి",
+    "weeklyMilkProduction": "వారపు పాల ఉత్పాదన",
+    "topMilkProducers": "టాప్ పాల ఉత్పాదకులు",
+    "perDay": "రోజుకు",
+    "vaccinationReminder": "వ్యాక్సినేషన్ రిమైండర్",
+    "insuranceReminder": "ఇన్సూరెన్స్ రిమైండర్",
+    "healthAlerts": "ఆరోగ్య అలర్ట్లు"
+  },
+  "settings": {
+    "title": "సెట్టింగులు",
+    "language": "భాష",
+    "darkMode": "డార్క్ మోడ్",
+    "profile": "ప్రొఫైల్",
+    "notifications": "నోటిఫికేషన్లు",
+    "about": "గురించి"
+  },
+  "common": {
+    "save": "సేవ్ చేయండి",
+    "cancel": "రద్దు చేయండి",
+    "delete": "తొలగించండి",
+    "edit": "సవరించండి",
+    "view": "చూడండి",
+    "back": "వెనుకకు",
+    "next": "తదుపరి",
+    "loading": "లోడ్ అవుతోంది...",
+    "error": "లోపం",
+    "success": "విజయం",
+    "noData": "డేటా లేదు",
+    "export": "డేటా ఎగుమతి చేయండి"
+  },
+  "languages": {
+    "en": "English",
+    "hi": "हिन्दी",
+    "bn": "বাংলা",
+    "te": "తెలుగు",
+    "mr": "मराठी",
+    "ta": "தமிழ்",
+    "gu": "ગુજરાતી",
+    "kn": "ಕನ್ನಡ",
+    "ml": "മലയാളം",
+    "pa": "ਪੰਜਾਬੀ"
+  }
+}

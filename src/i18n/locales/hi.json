@@ -1,0 +1,132 @@
+{
+  "app": {
+    "title": "पशु पहचान प्रणाली",
+    "subtitle": "किसानों के लिए स्मार्ट पशु प्रबंधन"
+  },
+  "auth": {
+    "login": "लॉगिन",
+    "register": "रजिस्टर",
+    "phoneNumber": "फोन नंबर",
+    "otp": "ओटीपी",
+    "sendOtp": "ओटीपी भेजें",
+    "verifyOtp": "ओटीपी सत्यापित करें",
+    "loginSuccess": "लॉगिन सफल",
+    "logout": "लॉगआउट"
+  },
+  "dashboard": {
+    "welcome": "स्वागत है",
+    "scanNow": "अभी स्कैन करें",
+    "uploadPhoto": "पशु फोटो अपलोड करें",
+    "addNewAnimal": "नया पशु जोड़ें",
+    "viewRecords": "रिकॉर्ड देखें",
+    "milkYield": "दूध उत्पादन",
+    "alerts": "अलर्ट",
+    "quickActions": "त्वरित कार्य"
+  },
+  "scan": {
+    "title": "आईरिस स्कैन और नस्ल पहचान",
+    "captureIris": "आईरिस कैप्चर करें",
+    "uploadImage": "छवि अपलोड करें",
+    "processing": "प्रसंस्करण...",
+    "results": "पहचान परिणाम",
+    "breed": "नस्ल",
+    "confidence": "विश्वास",
+    "animalId": "पशु आईडी",
+    "traits": "विशेषताएं",
+    "color": "रंग",
+    "horns": "सींग",
+    "milkType": "दूध प्रकार",
+    "saveAnimal": "पशु सहेजें"
+  },
+  "breeding": {
+    "title": "प्रजनन जानकारी",
+    "matingTime": "इष्टतम संभोग समय",
+    "matingPartner": "अनुशंसित साथी",
+    "shelfLife": "प्रजनन शेल्फ लाइफ",
+    "lastMating": "अंतिम संभोग तिथि",
+    "nextMating": "अगला संभोग नियत",
+    "pregnancyStatus": "गर्भावस्था स्थिति",
+    "gestationPeriod": "गर्भकाल",
+    "breedingAge": "प्रजनन आयु",
+    "fertilityStatus": "प्रजनन क्षमता स्थिति",
+    "breedingHistory": "प्रजनन इतिहास"
+  },
+  "health": {
+    "title": "स्वास्थ्य स्थिति",
+    "status": "स्वास्थ्य स्थिति",
+    "normal": "सामान्य",
+    "diseased": "रोगी",
+    "diseaseType": "रोग प्रकार",
+    "symptoms": "लक्षण",
+    "diagnosis": "निदान",
+    "treatment": "उपचार",
+    "preventiveMeasures": "निवारक उपाय",
+    "vaccinationSchedule": "टीकाकरण कार्यक्रम",
+    "medicationHistory": "दवा इतिहास",
+    "healthAlerts": "स्वास्थ्य अलर्ट",
+    "veterinaryContact": "पशु चिकित्सक संपर्क",
+    "quarantineStatus": "संगरोध स्थिति",
+    "healthyAnimals": "स्वस्थ पशु"
+  },
+  "records": {
+    "title": "पशु रिकॉर्ड",
+    "search": "पशु खोजें...",
+    "filter": "फिल्टर",
+    "all": "सभी",
+    "cattle": "गाय",
+    "buffalo": "भैंस",
+    "age": "आयु",
+    "owner": "मालिक",
+    "milkYield": "दूध उत्पादन",
+    "lastUpdated": "अंतिम अपडेट"
+  },
+  "milk": {
+    "title": "दूध उत्पादन और स्वास्थ्य डैशबोर्ड",
+    "subtitle": "दूध उत्पादन और स्वास्थ्य मेट्रिक्स ट्रैक करें",
+    "dailyYield": "दैनिक उत्पादन",
+    "monthlyYield": "मासिक उत्पादन",
+    "averageYield": "औसत उत्पादन",
+    "totalAnimals": "कुल पशु",
+    "totalDailyYield": "कुल दैनिक उत्पादन",
+    "weeklyMilkProduction": "साप्ताहिक दूध उत्पादन",
+    "topMilkProducers": "शीर्ष दूध उत्पादक",
+    "perDay": "प्रति दिन",
+    "vaccinationReminder": "टीकाकरण अनुस्मारक",
+    "insuranceReminder": "बीमा अनुस्मारक",
+    "healthAlerts": "स्वास्थ्य अलर्ट"
+  },
+  "settings": {
+    "title": "सेटिंग्स",
+    "language": "भाषा",
+    "darkMode": "डार्क मोड",
+    "profile": "प्रोफाइल",
+    "notifications": "सूचनाएं",
+    "about": "के बारे में"
+  },
+  "common": {
+    "save": "सहेजें",
+    "cancel": "रद्द करें",
+    "delete": "हटाएं",
+    "edit": "संपादित करें",
+    "view": "देखें",
+    "back": "वापस",
+    "next": "अगला",
+    "loading": "लोड हो रहा है...",
+    "error": "त्रुटि",
+    "success": "सफलता",
+    "noData": "कोई डेटा उपलब्ध नहीं",
+    "export": "डेटा निर्यात करें"
+  },
+  "languages": {
+    "en": "English",
+    "hi": "हिन्दी",
+    "bn": "বাংলা",
+    "te": "తెలుగు",
+    "mr": "मराठी",
+    "ta": "தமிழ்",
+    "gu": "ગુજરાતી",
+    "kn": "ಕನ್ನಡ",
+    "ml": "മലയാളം",
+    "pa": "ਪੰਜਾਬੀ"
+  }
+}
