@@ -1,0 +1,38 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Cattle/Buffalo Silhouette -->
+  <path d="M24 4C24 4 20 8 20 16C20 20 22 22 24 22C26 22 28 20 28 16C28 8 24 4 24 4Z" fill="#059669"/>
+  
+  <!-- Head -->
+  <ellipse cx="24" cy="18" rx="8" ry="6" fill="#059669"/>
+  
+  <!-- Ears -->
+  <ellipse cx="18" cy="16" rx="2" ry="3" fill="#047857"/>
+  <ellipse cx="30" cy="16" rx="2" ry="3" fill="#047857"/>
+  
+  <!-- Eyes -->
+  <circle cx="21" cy="17" r="1.5" fill="white"/>
+  <circle cx="27" cy="17" r="1.5" fill="white"/>
+  <circle cx="21" cy="17" r="0.8" fill="black"/>
+  <circle cx="27" cy="17" r="0.8" fill="black"/>
+  
+  <!-- Nose -->
+  <ellipse cx="24" cy="20" rx="1.5" ry="1" fill="#047857"/>
+  
+  <!-- Body -->
+  <ellipse cx="24" cy="32" rx="10" ry="8" fill="#059669"/>
+  
+  <!-- Legs -->
+  <rect x="18" y="38" width="3" height="6" fill="#047857"/>
+  <rect x="27" y="38" width="3" height="6" fill="#047857"/>
+  
+  <!-- Tail -->
+  <path d="M32 30 Q36 28 38 32" stroke="#047857" stroke-width="2" fill="none"/>
+  
+  <!-- Horns (for buffalo) -->
+  <path d="M20 12 Q18 8 20 6" stroke="#047857" stroke-width="2" fill="none"/>
+  <path d="M28 12 Q30 8 28 6" stroke="#047857" stroke-width="2" fill="none"/>
+  
+  <!-- Milk Drop -->
+  <path d="M36 20 Q36 16 34 16 Q32 16 32 20 Q32 24 34 26 Q36 24 36 20Z" fill="#3B82F6"/>
+  <path d="M34 18 Q34 16 33 16 Q32 16 32 18 Q32 20 33 21 Q34 20 34 18Z" fill="#60A5FA"/>
+</svg>
